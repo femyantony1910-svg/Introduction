@@ -4,7 +4,9 @@
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Femy+Antony+Jose..;Open-Source+Enthusiast..;Learning+In+Public..;Nice+To+Meet+You+....&center=true"></a></p>
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Femy+Antony+Jose..;CSE+Student;Open-Source+Enthusiast..;Learning+In+Public..;Nice+To+Meet+You+....&center=true"></a></p>
-
+<div align="center">
+<img src="https://i.redd.it/xvesj7s5usw71.gif" alt="Descriptive Text for the GIF" />
+</div>
 
 
 # 🖥️ Technical Skills: 
