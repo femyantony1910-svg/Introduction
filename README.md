@@ -12,7 +12,6 @@
 
 </p>
 
-<h3 align="center"> > Hey There!, I am <span style="color:#58A6FF">Femy Antony Jose</span></h3>
 
 <p align="center">
 
