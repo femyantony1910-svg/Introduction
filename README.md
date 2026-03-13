@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-<h1 align="center">Hi 👋 I'm Femy Antony Jose</h1>
+<h1 align="center">Hi 👋 I'm Femy Antony </h1>
 
 <h3 align="center">
 🚀 Developer in Progress | 🤖 AI Explorer | 💡 Problem Solver
