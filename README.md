@@ -24,7 +24,7 @@
 </p>
 
 ---
-
+![](https://github-profile-trophy.vercel.app/?username=FemyAntonyJose-06&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ## ⚡ Tech Stack
 
 <p align="center">
